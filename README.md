@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" height="20" alt="discord logo"  /></a>
+    <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" height="20" alt="anilist logo"  /></a>
   <a href="https://open.spotify.com/user/315gja2k45jtai7dffzkeva6ruxe?si=a997ad4ba4324a36" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="20" alt="discord logo"  /></a>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="20" alt="spotify logo"  /></a>
 </div>
