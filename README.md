@@ -17,9 +17,9 @@
 </div>
 
 <div align="center">
-  <a>href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
+  <a> href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
     <img src="https://i.imgur.com/bgeBE23.png" width="40" height="40" alt="discord logo"/>
-  <a>href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
+  <a> href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
     <img src="https://i.imgur.com/3YOzkaB.png" width="40" height="40" alt="discord logo"/>
   </a>
 </div>
