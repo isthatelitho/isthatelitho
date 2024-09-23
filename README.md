@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/315gja2k45jtai7dffzkeva6ruxe">
-    <img src="https://spotify-github-profile.kittinanx.com/api?user=315gja2k45jtai7dffzkeva6ruxe&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.kittinanx.com/api?user=315gja2k45jtai7dffzkeva6ruxe  />
   </a>
 </div>
 
