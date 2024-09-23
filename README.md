@@ -3,4 +3,4 @@
 </div>
 
 ###
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:746238443839029379)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:746238443839029379)](https://discord.com/users/:746238443839029379)
