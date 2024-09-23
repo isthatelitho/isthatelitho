@@ -16,7 +16,7 @@
 
 </div>
 
-<p float="left">
+<p float="middle">
   <a href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
     <img src="https://i.imgur.com/bgeBE23.png" width="40" height="40" alt="discord logo"  />
   <a href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
