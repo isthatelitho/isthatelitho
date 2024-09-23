@@ -19,6 +19,6 @@
 <div align="center">
   <a href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
     <img src="https://i.imgur.com/bgeBE23.png" width="40" height="40" alt="discord logo"  /></a>
-  <a href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
+  <a href="https://open.spotify.com/user/315gja2k45jtai7dffzkeva6ruxe?si=a997ad4ba4324a36" target="_blank">
     <img src="https://i.imgur.com/3YOzkaB.png" width="40" height="40" alt="discord logo"  /></a>
 </div>
