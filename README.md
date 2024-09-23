@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://anilist.co/user/YaaaayPeacePeace" target="_blank">
-    <img src="https://i.imgur.com/bgeBE23.png" width="52" height="40" alt="discord logo"  />
+    <img src="https://i.imgur.com/bgeBE23.png" width="40" height="40" alt="discord logo"  />
   </a>
 </div>
 
