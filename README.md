@@ -23,4 +23,3 @@
     <img src="https://i.imgur.com/3YOzkaB.png" width="40" height="40" alt="discord logo"  />
   </a>
 </div>
-a { text-decoration: none; }
